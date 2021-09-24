@@ -10,6 +10,6 @@ structure of a modern project in Front End 2021
 
 # Execute
 
-yarn init
+yarn install
 
 yarn run dev
